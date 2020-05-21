@@ -1,4 +1,4 @@
-This project is a very basic form that "submits" form results by rendering to a <pre> tag. It's meant to show how to use React Testing Library run integration and unit tests effectively. The first few commits were setup prior to a live demo, and the final commit is the result of that demo.
+This project is a very basic form that "submits" form results by rendering to a pre tag. It's meant to show how to use React Testing Library run integration and unit tests effectively. The first few commits were setup prior to a live demo, and the final commit is the result of that demo.
 
 
 
